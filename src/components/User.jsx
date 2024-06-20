@@ -1,12 +1,10 @@
-
-
 export const User = ({avatar, text, userName, career}) => {
   return (
     <section className="text-center flex flex-col justify-center font-Fraunces">
         <div className="flex justify-center">
         <img src={avatar} alt="avatar-picture" className="rounded-full w-[52px] h-[52px]" />
         </div>
-        <div className="px-8 pt-6 pb-7 text-base">
+        <div className="px-8 pt-6 pb-7 text-base sm:px-1">
             {text}
         </div>
         <h4 className="font-semibold">
