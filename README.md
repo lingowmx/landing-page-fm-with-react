@@ -11,7 +11,7 @@ This is a solution to the [Sunnyside agency landing page challenge on Frontend M
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-S
+  - [Thanks](#thanks)
 
 
 ## Overview
@@ -56,3 +56,5 @@ Work more fluidly with components and the understanding on how they work.
 I need to continue practicing react, i mean learn it first and make bigger and interesting projects
 
 
+### Thanks
+Thanks to [codingTube](https://www.youtube.com/@CodingTube)
