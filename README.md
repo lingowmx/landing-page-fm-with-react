@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github pages]()
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github](https://github.com/lingowmx/landing-page-fm-with-react)
+- Live Site URL: [Github Pages](https://lingowmx.github.io/landing-page-fm-with-react/)
 
 ## My process
 
