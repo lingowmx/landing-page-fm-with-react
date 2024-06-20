@@ -11,7 +11,7 @@ export const Testimonials = () => {
       <h3 className="text-center text-Grayish-blue font-Fraunces text-3xl font-medium py-10">
         Client Testimonials
       </h3>
-      <div className="sm:flex sm:w-[640px] sm:mx-auto lg:w-[760px]">
+      <div className="sm:flex sm:w-[640px] sm:mx-auto md:w-full md:px-1 md:text-sm lg:px-3">
         <User
           avatar={emily}
           text="We put our trust in Sunnyside and they delivered, making sure our needs were met and deadlines were always hit."

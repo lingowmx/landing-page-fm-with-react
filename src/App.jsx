@@ -1,3 +1,5 @@
+import { Footer } from "./components/Footer.jsx";
+import { GalleryContainer } from "./components/GalleryContainer.jsx";
 import { Header } from "./components/Header.jsx";
 import { Main } from "./components/Main.jsx";
 import { Services } from "./components/Services.jsx";
@@ -10,6 +12,8 @@ function App() {
     <Main />
     <Services />
     <Testimonials />
+    <GalleryContainer />
+    <Footer />
   </main>
 
   )
